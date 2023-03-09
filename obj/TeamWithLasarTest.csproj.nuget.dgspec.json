@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anri6a/Documents/Study/GB/MeetC#/examples/TeamWithLasarTest/TeamWithLasarTest.csproj": {}
+    "/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/TeamWithLasarTest.csproj": {}
   },
   "projects": {
-    "/Users/anri6a/Documents/Study/GB/MeetC#/examples/TeamWithLasarTest/TeamWithLasarTest.csproj": {
+    "/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/TeamWithLasarTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anri6a/Documents/Study/GB/MeetC#/examples/TeamWithLasarTest/TeamWithLasarTest.csproj",
+        "projectUniqueName": "/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/TeamWithLasarTest.csproj",
         "projectName": "TeamWithLasarTest",
-        "projectPath": "/Users/anri6a/Documents/Study/GB/MeetC#/examples/TeamWithLasarTest/TeamWithLasarTest.csproj",
+        "projectPath": "/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/TeamWithLasarTest.csproj",
         "packagesPath": "/Users/anri6a/.nuget/packages/",
-        "outputPath": "/Users/anri6a/Documents/Study/GB/MeetC#/examples/TeamWithLasarTest/obj/",
+        "outputPath": "/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anri6a/.nuget/NuGet/NuGet.Config"
