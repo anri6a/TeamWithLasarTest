@@ -1,0 +1,15 @@
+/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/bin/Debug/net6.0/TeamWithLasarTest
+/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/bin/Debug/net6.0/TeamWithLasarTest.deps.json
+/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/bin/Debug/net6.0/TeamWithLasarTest.runtimeconfig.json
+/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/bin/Debug/net6.0/TeamWithLasarTest.dll
+/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/bin/Debug/net6.0/TeamWithLasarTest.pdb
+/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/obj/Debug/net6.0/TeamWithLasarTest.csproj.AssemblyReference.cache
+/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/obj/Debug/net6.0/TeamWithLasarTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/obj/Debug/net6.0/TeamWithLasarTest.AssemblyInfoInputs.cache
+/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/obj/Debug/net6.0/TeamWithLasarTest.AssemblyInfo.cs
+/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/obj/Debug/net6.0/TeamWithLasarTest.csproj.CoreCompileInputs.cache
+/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/obj/Debug/net6.0/TeamWithLasarTest.dll
+/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/obj/Debug/net6.0/refint/TeamWithLasarTest.dll
+/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/obj/Debug/net6.0/TeamWithLasarTest.pdb
+/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/obj/Debug/net6.0/TeamWithLasarTest.genruntimeconfig.cache
+/Users/anri6a/Documents/Study/GB/MeetC#/examples/Seminar06-HomeWork/TeamWithLasarTest/obj/Debug/net6.0/ref/TeamWithLasarTest.dll
